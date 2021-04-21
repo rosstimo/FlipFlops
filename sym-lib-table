@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name JKEdgeFlipFlop-rescue)(type Legacy)(uri ${KIPRJMOD}/JKEdgeFlipFlop-rescue.lib)(options "")(descr ""))
+  (lib (name FlipFlops-rescue)(type Legacy)(uri ${KIPRJMOD}/FlipFlops-rescue.lib)(options "")(descr ""))
+)
