@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FlipFlops-rescue)(type Legacy)(uri ${KIPRJMOD}/FlipFlops-rescue.lib)(options "")(descr ""))
+)
