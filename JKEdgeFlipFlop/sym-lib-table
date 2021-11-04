@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name JKEdgeFlipFlop-rescue)(type Legacy)(uri ${KIPRJMOD}/JKEdgeFlipFlop-rescue.lib)(options "")(descr ""))
+)

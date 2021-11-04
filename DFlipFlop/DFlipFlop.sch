@@ -68,7 +68,7 @@ F 3 "http://www.ti.com/lit/gpn/sn74LS04" H 4650 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 4100 3150 0    50   Input ~ 0
-J
+D
 Wire Wire Line
 	4350 3150 4350 4350
 Wire Wire Line
